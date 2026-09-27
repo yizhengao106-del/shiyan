@@ -1,0 +1,272 @@
+[
+  {
+    "source": "E:\\ZoomNeXt\\_restore_original\\configs\\icod_train.py",
+    "copy": "configs\\baseline\\icod_train.py",
+    "sha256": "b3656d3f5b54450c21da6df4cd74bcad9d084c5c33a6e26da745fe29f72900a0"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\icod_train_fder.py",
+    "copy": "configs\\A\\icod_train_fder.py",
+    "sha256": "1e91c6eaaadf058fd4f75231f7a6e307f4188fe145b0792a4d66dcfd5b2b70a2"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\icod_train_fder_restored.py",
+    "copy": "configs\\A\\icod_train_fder_restored.py",
+    "sha256": "8cccee89b6e1b425b91201e9682690abcc0c5d9a4f23637c251e9ddc7ab80677"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\icod_train_fder_sg.py",
+    "copy": "configs\\A\\icod_train_fder_sg.py",
+    "sha256": "d6af6c0a695ac2ec62ebc9979d86a230cf11222048fc32e90ed4e01b9776f5af"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_base.py",
+    "copy": "configs\\A\\wg_base.py",
+    "sha256": "28b494a76bbf429a21a604b0f8a8097b189d123ffecbe13b5de9e49423b838a4"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_baseline.py",
+    "copy": "configs\\A\\wg_baseline.py",
+    "sha256": "565110a35c18899c6ca486b3569d8dd14479d77de16a88ac1a247a6b881557fc"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_edge.py",
+    "copy": "configs\\A\\wg_edge.py",
+    "sha256": "462ba659531b96d85e12bb6890e4a0a84e2ff85cddbb519383ce3094bda93a6f"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_fder.py",
+    "copy": "configs\\A\\wg_fder.py",
+    "sha256": "1392c5ae5483fa4f2204028bbd8722fa862d6c369696489770a1fc69d4511f70"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_frequency.py",
+    "copy": "configs\\A\\wg_frequency.py",
+    "sha256": "4703f73602248d3daad265cecec4de53fa0548f3532e25745c666b3f692b5bc1"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_full.py",
+    "copy": "configs\\A\\wg_full.py",
+    "sha256": "4d0fc22ff84784bdc462eda2a10c4b95ff66057e7f5074f0806f3da150d57d8c"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_guidance.py",
+    "copy": "configs\\A\\wg_guidance.py",
+    "sha256": "026fc9e9eb1e8420109608ec4d148a4cde4556245d666c20dc4b0dbafb087165"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_guidance_edge.py",
+    "copy": "configs\\A\\wg_guidance_edge.py",
+    "sha256": "d4f16a4f77bf113aa275205e2ee66150a5ed575ce269d7544bb951c83a11bebf"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\configs\\wg_guidance_frequency.py",
+    "copy": "configs\\A\\wg_guidance_frequency.py",
+    "sha256": "7bd13c6d5e10470012a962361dca9f7bfa5a1f9f268dc1e0b74a913cbe2f98ea"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\run_weight_guided.py",
+    "copy": "launchers\\A\\run_weight_guided.py",
+    "sha256": "d5d7b967914a0a0acce1287288d4ccfa7e83b3351e7eee2d100918a16a50b1e3"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\icod_train_fder.py",
+    "copy": "configs\\B\\icod_train_fder.py",
+    "sha256": "1e91c6eaaadf058fd4f75231f7a6e307f4188fe145b0792a4d66dcfd5b2b70a2"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\icod_train_fder_restored.py",
+    "copy": "configs\\B\\icod_train_fder_restored.py",
+    "sha256": "8cccee89b6e1b425b91201e9682690abcc0c5d9a4f23637c251e9ddc7ab80677"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\icod_train_fder_sg.py",
+    "copy": "configs\\B\\icod_train_fder_sg.py",
+    "sha256": "d6af6c0a695ac2ec62ebc9979d86a230cf11222048fc32e90ed4e01b9776f5af"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_base.py",
+    "copy": "configs\\B\\wg_base.py",
+    "sha256": "28b494a76bbf429a21a604b0f8a8097b189d123ffecbe13b5de9e49423b838a4"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_baseline.py",
+    "copy": "configs\\B\\wg_baseline.py",
+    "sha256": "565110a35c18899c6ca486b3569d8dd14479d77de16a88ac1a247a6b881557fc"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_edge.py",
+    "copy": "configs\\B\\wg_edge.py",
+    "sha256": "462ba659531b96d85e12bb6890e4a0a84e2ff85cddbb519383ce3094bda93a6f"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_fder.py",
+    "copy": "configs\\B\\wg_fder.py",
+    "sha256": "af11b9295972020312d6cf8ec771adcc9f2a984161025093cfd1c9c684ee1aeb"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_frequency.py",
+    "copy": "configs\\B\\wg_frequency.py",
+    "sha256": "4703f73602248d3daad265cecec4de53fa0548f3532e25745c666b3f692b5bc1"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_full.py",
+    "copy": "configs\\B\\wg_full.py",
+    "sha256": "4d0fc22ff84784bdc462eda2a10c4b95ff66057e7f5074f0806f3da150d57d8c"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_guidance.py",
+    "copy": "configs\\B\\wg_guidance.py",
+    "sha256": "026fc9e9eb1e8420109608ec4d148a4cde4556245d666c20dc4b0dbafb087165"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_guidance_edge.py",
+    "copy": "configs\\B\\wg_guidance_edge.py",
+    "sha256": "d4f16a4f77bf113aa275205e2ee66150a5ed575ce269d7544bb951c83a11bebf"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\configs\\wg_guidance_frequency.py",
+    "copy": "configs\\B\\wg_guidance_frequency.py",
+    "sha256": "7bd13c6d5e10470012a962361dca9f7bfa5a1f9f268dc1e0b74a913cbe2f98ea"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\run_frequency_edge_only.py",
+    "copy": "launchers\\B\\run_frequency_edge_only.py",
+    "sha256": "a2bcbba87c5ae5911303a46a27ac4c96bddc1af2bd0c7b1169512c722c052b06"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\run_weight_guided.py",
+    "copy": "launchers\\B\\run_weight_guided.py",
+    "sha256": "d5d7b967914a0a0acce1287288d4ccfa7e83b3351e7eee2d100918a16a50b1e3"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\icod_train_fder.py",
+    "copy": "configs\\C\\icod_train_fder.py",
+    "sha256": "1e91c6eaaadf058fd4f75231f7a6e307f4188fe145b0792a4d66dcfd5b2b70a2"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\icod_train_fder_restored.py",
+    "copy": "configs\\C\\icod_train_fder_restored.py",
+    "sha256": "8cccee89b6e1b425b91201e9682690abcc0c5d9a4f23637c251e9ddc7ab80677"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\icod_train_fder_sg.py",
+    "copy": "configs\\C\\icod_train_fder_sg.py",
+    "sha256": "d6af6c0a695ac2ec62ebc9979d86a230cf11222048fc32e90ed4e01b9776f5af"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\icod_train_fsp_july13.py",
+    "copy": "configs\\C\\icod_train_fsp_july13.py",
+    "sha256": "1a97cfe604181bdfae19e60e99bf910dde89d8b9207285a074d40d2c64dfe634"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_base.py",
+    "copy": "configs\\C\\wg_base.py",
+    "sha256": "28b494a76bbf429a21a604b0f8a8097b189d123ffecbe13b5de9e49423b838a4"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_baseline.py",
+    "copy": "configs\\C\\wg_baseline.py",
+    "sha256": "565110a35c18899c6ca486b3569d8dd14479d77de16a88ac1a247a6b881557fc"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_edge.py",
+    "copy": "configs\\C\\wg_edge.py",
+    "sha256": "462ba659531b96d85e12bb6890e4a0a84e2ff85cddbb519383ce3094bda93a6f"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_fder.py",
+    "copy": "configs\\C\\wg_fder.py",
+    "sha256": "1392c5ae5483fa4f2204028bbd8722fa862d6c369696489770a1fc69d4511f70"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_frequency.py",
+    "copy": "configs\\C\\wg_frequency.py",
+    "sha256": "4703f73602248d3daad265cecec4de53fa0548f3532e25745c666b3f692b5bc1"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_full.py",
+    "copy": "configs\\C\\wg_full.py",
+    "sha256": "4d0fc22ff84784bdc462eda2a10c4b95ff66057e7f5074f0806f3da150d57d8c"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_guidance.py",
+    "copy": "configs\\C\\wg_guidance.py",
+    "sha256": "026fc9e9eb1e8420109608ec4d148a4cde4556245d666c20dc4b0dbafb087165"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_guidance_edge.py",
+    "copy": "configs\\C\\wg_guidance_edge.py",
+    "sha256": "d4f16a4f77bf113aa275205e2ee66150a5ed575ce269d7544bb951c83a11bebf"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\configs\\wg_guidance_frequency.py",
+    "copy": "configs\\C\\wg_guidance_frequency.py",
+    "sha256": "7bd13c6d5e10470012a962361dca9f7bfa5a1f9f268dc1e0b74a913cbe2f98ea"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\run_fsp_july13.py",
+    "copy": "launchers\\C\\run_fsp_july13.py",
+    "sha256": "4aed14609eeb7e5a444f3f03e062b21595d6bef64a289c2016ed5bfc5e74bf37"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-ASPP分支加权-20260917 E\\configs\\icod_train.py",
+    "copy": "configs\\E\\icod_train.py",
+    "sha256": "b3656d3f5b54450c21da6df4cd74bcad9d084c5c33a6e26da745fe29f72900a0"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-ASPP分支加权-20260917 E\\configs\\icod_train_aspp_weighted.py",
+    "copy": "configs\\E\\icod_train_aspp_weighted.py",
+    "sha256": "9906ebd54674d1dfe62a70facc7480cfdcdd1d17a17e54169fa0ae245c408ef1"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-ASPP分支加权-20260917 E\\run_aspp_weighted.py",
+    "copy": "launchers\\E\\run_aspp_weighted.py",
+    "sha256": "4142db10c6937239b5005ea727a3aa1ab35e55d39b89fd672f6d1e0565b7d8c9"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-RGPU全组交互-20260915\\configs\\icod_train.py",
+    "copy": "configs\\F\\icod_train.py",
+    "sha256": "b3656d3f5b54450c21da6df4cd74bcad9d084c5c33a6e26da745fe29f72900a0"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-RGPU全组交互-20260915\\configs\\icod_train_all_group.py",
+    "copy": "configs\\F\\icod_train_all_group.py",
+    "sha256": "32f9e688cec176473140210425943be9d4371b15af68e591c712023c8af9fcf2"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-RGPU全组交互-20260915\\run_all_group.py",
+    "copy": "launchers\\F\\run_all_group.py",
+    "sha256": "4c101a4d668edf569aa06d23b9c645239e508f7cb72795763faf118937864eec"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\WeightGuided-guidance-20260910① A\\本次版本与结果.md",
+    "copy": "evidence\\A_截图转录与版本说明.md",
+    "sha256": "90243bcd607ff09f46f8c03733c9e5b1f9a17d0ec6ef60d8b7be9663712c69f1"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\frequency_edge_only_20260910_214407.log",
+    "copy": "evidence\\B_frequency_edge_only_20260910_214407.log",
+    "sha256": "81fe565848d16ec8352a2edbbc3139cb0e042d3804ab33a60aa7992fe14ef65a"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\evidence\\log_2026-07-13.txt",
+    "copy": "evidence\\C_log_2026-07-13.txt",
+    "sha256": "0453dfdf680d18e98b8d8f4ae8ed20508de5b23015644b4cb12cf0a074b0c63a"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\7月13日 FSP 结构恢复版 C\\evidence\\config.py",
+    "copy": "configs\\C\\July13_actual_config.py",
+    "sha256": "76bd6add6ea45c8015de0c709721212f6d96757847917acdaa3fc54a16c70e79"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\ZoomNeXt-②频率增强与边缘监督-20260911 B\\20260910_214431_fder_5vdmzi1s\\results\\EffB1_ZoomNeXt_WeightGuided_BS4_LR0.0001_E150_H384_W384_OPMadam_OPGMfinetune_SCstep_AMP_INFOwg_fder\\exp_0\\config.py",
+    "copy": "configs\\B\\actual_config.py",
+    "sha256": "a1a38507cfdf0389e44937024bad414496674d8cca61a5464a1222f6019a2bbf"
+  },
+  {
+    "source": "C:\\Users\\高艺祯\\OneDrive\\Desktop\\代码\\第四第五章_创新机制与代码审阅说明-20260920.md",
+    "copy": "evidence\\历史汇总_含EF记录.md",
+    "sha256": "5e9c9b0b6489dfb822e03d19150e94cedae07bc5b445d67c5ab3e833773ae030"
+  }
+]
